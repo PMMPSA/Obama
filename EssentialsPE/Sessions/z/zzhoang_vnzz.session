@@ -1,0 +1,22 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "s": [
+            25.4177,
+            71.2486,
+            44.6455,
+            "plot",
+            357,
+            2
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": "Yasuo",
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}
